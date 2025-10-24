@@ -1,9 +1,14 @@
-'''python3 -m venv info_gatherer_env '''
+'''python
+python3 -m venv info_gatherer_env '''
 
-'''source info_gatherer_env/bin/activate '''
+'''python
+source info_gatherer_env/bin/activate '''
 
-'''git clone https://github.com/mr-rooot/-ADVANCED-INFORMATION-GATHERING-TOOL.git ''' 
+'''python
+git clone https://github.com/mr-rooot/-ADVANCED-INFORMATION-GATHERING-TOOL.git ''' 
 
-'''cd -ADVANCED-INFORMATION-GATHERING-TOOL'''
+'''python
+cd -ADVANCED-INFORMATION-GATHERING-TOOL'''
 
-'''python3 python3 firsttool.py '''
+'''python
+python3 python3 firsttool.py '''
