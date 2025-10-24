@@ -1,7 +1,9 @@
-git clone https://github.com/MR-ROOT/-ADVANCED-INFORMATION-GATHERING-TOOL-Public.git
+'''python3 -m venv info_gatherer_env '''
 
-cd -ADVANCED-INFORMATION-GATHERING-TOOL-Public
+'''source info_gatherer_env/bin/activate '''
 
-pip install -r requirements.txt
+'''git clone https://github.com/mr-rooot/-ADVANCED-INFORMATION-GATHERING-TOOL.git ''' 
 
-python3 -ADVANCED-INFORMATION-GATHERING-TOOL.py
+'''cd -ADVANCED-INFORMATION-GATHERING-TOOL'''
+
+'''python3 python3 firsttool.py '''
